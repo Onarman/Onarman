@@ -4,6 +4,8 @@
 <a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ### What I'm using ? 🛠 
 
 I prefer React & React Native for web/mobile front-end development.
@@ -15,7 +17,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/feed/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## 🚀 Skills
 <p>
