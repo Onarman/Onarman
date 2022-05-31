@@ -15,7 +15,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/feed/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3625204-Programmer-s-Life.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 Skills
 <p>
