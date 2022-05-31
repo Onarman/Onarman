@@ -4,6 +4,8 @@
 <a href="github.io LİNKİ" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Onarman&label=Profile%20views&color=0e75b6&style=flat" alt="Onarman" /> </p>
+
 <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### What I'm using ? 🛠 
