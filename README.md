@@ -120,26 +120,26 @@ I prefer React & Django for web/mobile full-stack development.
     <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
-    <td align=center >3.</td>
+    <td align=center >2.</td>
     <td>Languages Cards</td>
     <td>https://language-cards-c1lblptkc-onarman.vercel.app/</td>  
      <td>React, React DOM, Components, Props </td>
 </tr>
 <tr>
-    <td align=center >4.</td>
+    <td align=center >3.</td>
     <td>Random User Generator</td>
     <td>https://random-user-generator-psi.vercel.app/</td> 
      <td>useState, useEffect, axios, async await, REST API</td>
 </tr>
 <tr>
-    <td align=center >8.</td>
+    <td align=center >4.</td>
     <td>Weather App</td>
     <td>https://weather-app-self-one.vercel.app/</td> 
     <td>React, useState, useEffect, axios, async await, API</td>   
     
 </tr>
 tr>
-    <td align=center >10.</td>
+    <td align=center >5.</td>
     <td>Movie-App</td>
     <td>https://movie-app-topaz-seven.vercel.app/</td>  
      <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
