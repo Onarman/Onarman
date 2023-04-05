@@ -146,7 +146,7 @@ I prefer React & Django for web/mobile full-stack development.
 </tr>
 <tr>
     <td align=center >5.</td>
-    <td>Movie-App</td>
+    <td>Tailwind Project</td>
     <td>https://tailwind-project-one.vercel.app/</td>  
      <td> React,Tailwind,Vite</td>  
 </tr>
