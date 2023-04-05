@@ -138,11 +138,17 @@ I prefer React & Django for web/mobile full-stack development.
     <td>React, useState, useEffect, axios, async await, API</td>   
     
 </tr>
-tr>
+<tr>
     <td align=center >5.</td>
     <td>Movie-App</td>
     <td>https://movie-app-topaz-seven.vercel.app/</td>  
      <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
+</tr>
+<tr>
+    <td align=center >5.</td>
+    <td>Movie-App</td>
+    <td>https://tailwind-project-one.vercel.app/</td>  
+     <td> React,Tailwind,Vite</td>  
 </tr>
 </table>
 
