@@ -145,8 +145,8 @@ I prefer React & Django for web/mobile full-stack development.
      <td> React,Async Await, Axios, Events,React-Router,API, Bootstrap, React-icons</td>  
 </tr>
 <tr>
-    <td align=center >5.</td>
-    <td>Tailwind Project</td>
+    <td align=center >6.</td>
+    <td>TailwindCSS-project</td>
     <td>https://tailwind-project-one.vercel.app/</td>  
      <td> React,Tailwind,Vite</td>  
 </tr>
