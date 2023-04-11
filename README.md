@@ -150,6 +150,12 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://tailwind-project-one.vercel.app/</td>  
      <td> React,Tailwind,Vite</td>  
 </tr>
+<tr>
+    <td align=center >7.</td>
+    <td>SpeechSynthesis App</td>
+    <td>https://onarman.github.io/SpeechSynthesis/</td>  
+     <td> Javascript,Css</td>  
+</tr>
 </table>
 
 
