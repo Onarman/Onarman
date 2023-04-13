@@ -153,7 +153,7 @@ I prefer React & Django for web/mobile full-stack development.
 <tr>
     <td align=center >7.</td>
     <td>SpeechSynthesis App</td>
-    <td>https://onarman.github.io/SpeechSynthesis/</td>  
+    <td>https://speech-synthesis-seven.vercel.app/</td>  
      <td> Javascript,Css</td>  
 </tr>
 </table>
