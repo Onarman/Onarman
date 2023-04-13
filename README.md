@@ -156,6 +156,12 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://speech-synthesis-seven.vercel.app/</td>  
      <td> Javascript,Css</td>  
 </tr>
+<tr>
+    <td align=center >8.</td>
+    <td>Sticky Nav</td>
+    <td>https://onarman.github.io/Sticky-Nav/</td>  
+     <td>Javascript,Css</td>  
+</tr>
 </table>
 
 
