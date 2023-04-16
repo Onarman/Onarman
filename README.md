@@ -88,15 +88,15 @@ I prefer React & Django for web/mobile full-stack development.
 ## 📈 Statistics
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brs14shn&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> 
-<img src="https://github.com/Onarman" alt="Statistics" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=onarman&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=onarman&show_icons=true&theme=radical" alt="Statistics" width="50%">
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brs14shn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onarman&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
 
 ### Support Me
 <p align="right"> Visitor Counter 🕵🏼</p>
-<p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{brs14shn}/count.svg" alt="Visitor's Count" /></p>
+<p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{onarman}/count.svg" alt="Visitor's Count" /></p>
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
