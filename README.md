@@ -162,16 +162,21 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://onarman.github.io/Sticky-Nav/</td>  
      <td>Javascript,Css</td>  
 </tr>
-      <tr>
+<tr>
     <td align=center >9.</td>
     <td>Store App</td>
     <td>https://new-store-app-1hax.vercel.app/</td>  
      <td>ReactJs,Context API,Vite</td>  
 </tr>
+<tr>
+    <td align=center >10.</td>
+    <td>Expense Calculator</td>
+    <td>https://expense-calculator-wheat.vercel.app/</td>  
+    <td>ReactJs,Context API,Vite,styled components</td>  
+</tr>
       
       
 </table>
-
 
 
 
