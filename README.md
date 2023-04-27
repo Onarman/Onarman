@@ -174,6 +174,12 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://expense-calculator-wheat.vercel.app/</td>  
     <td>ReactJs,Context API,Vite,styled components</td>  
 </tr>
+<tr>
+    <td align=center >11.</td>
+    <td>Authenticate</td>
+    <td>https://authantication-nine.vercel.app/</td>  
+    <td>ReactJs,Context API,Vite</td>  
+</tr>
       
       
 </table>
