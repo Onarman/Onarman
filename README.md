@@ -181,10 +181,10 @@ I prefer React & Django for web/mobile full-stack development.
     <td>ReactJs,Context API,Vite</td>  
 </tr>
 <tr>
-    <td align=center >11.</td>
+    <td align=center >12.</td>
     <td>Pokedex</td>
     <td>https://pokedex-pcii.vercel.app/</td>  
-    <td>Javascript,HTML5,CSS3,</td>  
+    <td>Javascript,HTML5,CSS3,async-await</td>  
 </tr>
       
       
