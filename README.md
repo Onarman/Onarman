@@ -180,6 +180,14 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://authantication-nine.vercel.app/</td>  
     <td>ReactJs,Context API,Vite</td>  
 </tr>
+<tr>
+    <td align=center >11.</td>
+    <td>Pokedex</td>
+    <td>https://pokedex-pcii.vercel.app/</td>  
+    <td>Javascript,HTML5,CSS3,</td>  
+</tr>
+      
+      
       
       
 </table>
