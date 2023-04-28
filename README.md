@@ -111,7 +111,6 @@ I prefer React & Django for web/mobile full-stack development.
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
     <th align="left" width="30%">Libraries and Technologies I use</th>
-  
 </tr>
 <tr>
     <td align=center >1.</td>
@@ -136,7 +135,6 @@ I prefer React & Django for web/mobile full-stack development.
     <td>Weather App</td>
     <td>https://weather-app-self-one.vercel.app/</td> 
     <td>React, useState, useEffect, axios, async await, API</td>   
-    
 </tr>
 <tr>
     <td align=center >5.</td>
@@ -150,56 +148,68 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://tailwind-project-one.vercel.app/</td>  
      <td> React,Tailwind,Vite</td>  
 </tr>
+
 <tr>
     <td align=center >7.</td>
-    <td>SpeechSynthesis App</td>
-    <td>https://speech-synthesis-seven.vercel.app/</td>  
-     <td> Javascript,Css</td>  
-</tr>
-<tr>
-    <td align=center >8.</td>
-    <td>Sticky Nav</td>
-    <td>https://onarman.github.io/Sticky-Nav/</td>  
-     <td>Javascript,Css</td>  
-</tr>
-<tr>
-    <td align=center >9.</td>
     <td>Store App</td>
     <td>https://new-store-app-1hax.vercel.app/</td>  
      <td>ReactJs,Context API,Vite</td>  
 </tr>
 <tr>
-    <td align=center >10.</td>
+    <td align=center >8.</td>
     <td>Expense Calculator</td>
     <td>https://expense-calculator-wheat.vercel.app/</td>  
     <td>ReactJs,Context API,Vite,styled components</td>  
 </tr>
 <tr>
-    <td align=center >11.</td>
+    <td align=center >9.</td>
     <td>Authenticate</td>
     <td>https://authantication-nine.vercel.app/</td>  
     <td>ReactJs,Context API,Vite</td>  
 </tr>
+
+  
+ 
+</table>
+  
+<table>
+<tr >
+    <caption>Javascript Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+</tr>
 <tr>
-    <td align=center >12.</td>
+    <td align=center >1.</td>
+    <td>JS-Clock</td>
+    <td>https://onarman.github.io/02---JS-and-CSS-Clock-JSProjects/</td>  
+    <td>Javascript,HTML5,CSS3</td>  
+</tr> 
+<tr>
+    <td align=center >2.</td>
+    <td>Click&Drag</td>
+    <td>https://onarman.github.io/click-drag/</td>  
+    <td>Javascript,HTML5,CSS3</td>  
+</tr>
+<tr>
+    <td align=center >3.</td>
     <td>Pokedex</td>
     <td>https://pokedex-pcii.vercel.app/</td>  
     <td>Javascript,HTML5,CSS3,async-await</td>  
 </tr>
 <tr>
-    <td align=center >13.</td>
-    <td>Click&Drag</td>
-    <td>https://onarman.github.io/click-drag/</td>  
-    <td>Javascript,HTML5,CSS3</td>  
-</tr>      
-      
-      
-      
-</table>
-
-
-
-
+    <td align=center >4.</td>
+    <td>SpeechSynthesis App</td>
+    <td>https://speech-synthesis-seven.vercel.app/</td>  
+     <td> Javascript,HTML5,CSS3</td>  
+</tr>
+<tr>
+    <td align=center >5.</td>
+    <td>Sticky Nav</td>
+    <td>https://onarman.github.io/Sticky-Nav/</td>  
+     <td>Javascript,HTML5,CSS3</td>  
+</tr>
 
 
 
