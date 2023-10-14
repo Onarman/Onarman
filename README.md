@@ -167,6 +167,18 @@ I prefer React & Django for web/mobile full-stack development.
     <td>https://authantication-nine.vercel.app/</td>  
     <td>ReactJs,Context API,Vite</td>  
 </tr>
+<tr>
+    <td align=center >10.</td>
+    <td>Portfolio</td>
+    <td>https://portfolio-1-xi-gold.vercel.app/</td>  
+    <td>ReactJs,Context API,Vite</td>  
+</tr>
+<tr>
+    <td align=center >11.</td>
+    <td>Netfilms</td>
+    <td>https://netflims-app.vercel.app/</td>  
+    <td>NextJs</td>  
+</tr>
 
   
  
